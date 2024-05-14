@@ -1,0 +1,648 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "YouTube",
+        "importPath": "pytube",
+        "description": "pytube",
+        "isExtraImport": true,
+        "detail": "pytube",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "ContentFile",
+        "importPath": "django.core.files.base",
+        "description": "django.core.files.base",
+        "isExtraImport": true,
+        "detail": "django.core.files.base",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "TikTokApi",
+        "importPath": "TikTokApi",
+        "description": "TikTokApi",
+        "isExtraImport": true,
+        "detail": "TikTokApi",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backendEditVideo.asgi",
+        "description": "backendEditVideo.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "backendEditVideo.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-$h^*=o2dge=ea0z!c(mg#=uere-pi#^4&)+wn-92bwy06mysso'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-$h^*=o2dge=ea0z!c(mg#=uere-pi#^4&)+wn-92bwy06mysso'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'myapp',\n    'rest_framework',\n    'djongo',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n]",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "ROOT_URLCONF = 'backendEditVideo.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'backendEditVideo.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'djongo',\n        'NAME': 'editVideo',\n        'ENFORCE_SCHEMA': False,\n        'CLIENT': {\n            'host': 'mongodb+srv://hiep2k3:hiephoa123@cluster0.urcuce0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',  # Thay thế bằng URI của MongoDB Atlas cluster",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'djongo',\n        'NAME': 'editVideo',\n        'ENFORCE_SCHEMA': False,\n        'CLIENT': {\n            'host': 'mongodb+srv://hiep2k3:hiephoa123@cluster0.urcuce0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',  # Thay thế bằng URI của MongoDB Atlas cluster\n        }\n    }\n}",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOWED_ORIGINS = [",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://localhost:5500\",",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://localhost:5500\",\n    \"http://127.0.0.1:5500\",\n    \"http://localhost:5173\"\n    # Add more origins if needed",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://localhost:5500\",\n    \"http://127.0.0.1:5500\",\n    \"http://localhost:5173\"\n    # Add more origins if needed\n]",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "backendEditVideo.settings",
+        "description": "backendEditVideo.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:8000\",\n    \"http://localhost:5500\",\n    \"http://127.0.0.1:5500\",\n    \"http://localhost:5173\"\n    # Add more origins if needed\n]",
+        "detail": "backendEditVideo.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backendEditVideo.urls",
+        "description": "backendEditVideo.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/v1/',include('myapp.urls')),\n]",
+        "detail": "backendEditVideo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backendEditVideo.wsgi",
+        "description": "backendEditVideo.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "backendEditVideo.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0001_initial",
+        "description": "myapp.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='MyModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('field1', models.CharField(max_length=100)),",
+        "detail": "myapp.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "myapp.migrations.0002_thumbail_image",
+        "description": "myapp.migrations.0002_thumbail_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('myapp', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='thumbail_image',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('image', models.BinaryField()),",
+        "detail": "myapp.migrations.0002_thumbail_image",
+        "documentation": {}
+    },
+    {
+        "label": "MyappConfig",
+        "kind": 6,
+        "importPath": "myapp.apps",
+        "description": "myapp.apps",
+        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'",
+        "detail": "myapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MyModel",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class MyModel(models.Model):\n    field1 = models.CharField(max_length=100)\n    field2 = models.IntegerField()\nclass Thumbail_image(models.Model):\n    image = models.BinaryField(blank=False,null=False)\n    def __str__(self):\n        return self.image\nclass Video(models.Model):\n    title = models.CharField(max_length=100)\n    duration = models.IntegerField()",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Thumbail_image",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Thumbail_image(models.Model):\n    image = models.BinaryField(blank=False,null=False)\n    def __str__(self):\n        return self.image\nclass Video(models.Model):\n    title = models.CharField(max_length=100)\n    duration = models.IntegerField()\n    video_url = models.CharField(max_length=500)\n    thumbnail_urls = models.JSONField()\n    def __str__(self):",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "Video",
+        "kind": 6,
+        "importPath": "myapp.models",
+        "description": "myapp.models",
+        "peekOfCode": "class Video(models.Model):\n    title = models.CharField(max_length=100)\n    duration = models.IntegerField()\n    video_url = models.CharField(max_length=500)\n    thumbnail_urls = models.JSONField()\n    def __str__(self):\n        return self.title",
+        "detail": "myapp.models",
+        "documentation": {}
+    },
+    {
+        "label": "MyModelSerializer",
+        "kind": 6,
+        "importPath": "myapp.serializers",
+        "description": "myapp.serializers",
+        "peekOfCode": "class MyModelSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = MyModel\n        fields = '__all__'\nclass YouTubeLinkSerializer(serializers.Serializer):\n    youtube_link = serializers.URLField()\nclass VideoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Video\n        fields = ['title', 'duration', 'video_url','thumbnail_urls'] ",
+        "detail": "myapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "YouTubeLinkSerializer",
+        "kind": 6,
+        "importPath": "myapp.serializers",
+        "description": "myapp.serializers",
+        "peekOfCode": "class YouTubeLinkSerializer(serializers.Serializer):\n    youtube_link = serializers.URLField()\nclass VideoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Video\n        fields = ['title', 'duration', 'video_url','thumbnail_urls'] \nclass Thumbail_imageSerializer(serializers.Serializer):\n    class Meta:\n        model = Thumbail_image\n        fields = '__all__'",
+        "detail": "myapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "VideoSerializer",
+        "kind": 6,
+        "importPath": "myapp.serializers",
+        "description": "myapp.serializers",
+        "peekOfCode": "class VideoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Video\n        fields = ['title', 'duration', 'video_url','thumbnail_urls'] \nclass Thumbail_imageSerializer(serializers.Serializer):\n    class Meta:\n        model = Thumbail_image\n        fields = '__all__'",
+        "detail": "myapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Thumbail_imageSerializer",
+        "kind": 6,
+        "importPath": "myapp.serializers",
+        "description": "myapp.serializers",
+        "peekOfCode": "class Thumbail_imageSerializer(serializers.Serializer):\n    class Meta:\n        model = Thumbail_image\n        fields = '__all__'",
+        "detail": "myapp.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "myapp.urls",
+        "description": "myapp.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'mymodels', MyModelViewSet)\nurlpatterns = [\n    path('', include(router.urls)),\n    path('a',create_video),\n    path('download_image',download_image ,name='download_image'),\n    path('download_video_tiktok',download_video_tiktok ,name='download_video_tiktok'),\n]",
+        "detail": "myapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "myapp.urls",
+        "description": "myapp.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', include(router.urls)),\n    path('a',create_video),\n    path('download_image',download_image ,name='download_image'),\n    path('download_video_tiktok',download_video_tiktok ,name='download_video_tiktok'),\n]",
+        "detail": "myapp.urls",
+        "documentation": {}
+    },
+    {
+        "label": "MyModelViewSet",
+        "kind": 6,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "class MyModelViewSet(viewsets.ModelViewSet):\n    queryset = MyModel.objects.all()\n    serializer_class = MyModelSerializer\n@api_view(['GET'])\ndef create_video(request):\n    # Nhận link video từ yêu cầu gửi đến API\n    video_url = request.query_params.get('youtube_link')\n    # Sử dụng thư viện pytube để lấy thông tin về video từ link\n    try:\n        yt = YouTube(video_url)",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_video",
+        "kind": 2,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "def create_video(request):\n    # Nhận link video từ yêu cầu gửi đến API\n    video_url = request.query_params.get('youtube_link')\n    # Sử dụng thư viện pytube để lấy thông tin về video từ link\n    try:\n        yt = YouTube(video_url)\n        title = yt.title\n        duration = yt.length\n        thumbnail_urls = get_thumbnail_images(video_url)\n    except Exception as e:",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "download_image",
+        "kind": 2,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "def download_image(request):\n    if request.method == 'POST':\n        image_url = request.data.get('img_url')  # Nhận đường dẫn từ POST request\n        if image_url:\n            try:\n                # Tải ảnh từ URL\n                response = requests.get(image_url)\n                print(response)\n                if response.status_code == 200:\n                    # Lấy dữ liệu của ảnh",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "download_video_tiktok",
+        "kind": 2,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "def download_video_tiktok(request):\n    data = asyncio.run(get_video_example(request))\n    return Response(data,status = status.HTTP_200_OK)\ndef get_thumbnail_images(url):\n    # Thay YOUR_API_KEY bằng API key của bạn\n    api_key = \"AIzaSyAQ2pzFwHwnxg6ly5guvADqMoBZZOf1xWg\"\n    video_id = extract_video_id(url)\n    # Tạo URL cho API request\n    api_url = f\"https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={api_key}\"\n    # Gửi request GET đến API",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_thumbnail_images",
+        "kind": 2,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "def get_thumbnail_images(url):\n    # Thay YOUR_API_KEY bằng API key của bạn\n    api_key = \"AIzaSyAQ2pzFwHwnxg6ly5guvADqMoBZZOf1xWg\"\n    video_id = extract_video_id(url)\n    # Tạo URL cho API request\n    api_url = f\"https://www.googleapis.com/youtube/v3/videos?part=snippet&id={video_id}&key={api_key}\"\n    # Gửi request GET đến API\n    response = requests.get(api_url)\n    # Xử lý kết quả\n    if response.status_code == 200:",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "extract_video_id",
+        "kind": 2,
+        "importPath": "myapp.views",
+        "description": "myapp.views",
+        "peekOfCode": "def extract_video_id(youtube_url):\n    # Tách ID từ URL\n    query_string = youtube_url.split(\"?\")[1]\n    parameters = query_string.split(\"&\")\n    for parameter in parameters:\n        key_value = parameter.split(\"=\")\n        if key_value[0] == \"v\":\n            return key_value[1]\n    return None\n# ms_token = \"xNZva2DISKvllrknq4J5Zgv7hnWkVmrOmWbp0FxGIT565m7DPtRKMkhco5kF6-D6dQPa-xiifeJ763u-CUK50UwXW94rRSnoCcsH_kkBjbU3pRVQNsxg1hpKZStWln7-MAMN5AG1a1cn_sq1wIc=\"",
+        "detail": "myapp.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backendEditVideo.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
