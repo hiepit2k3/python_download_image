@@ -80,8 +80,8 @@ def download_video_tiktok(request):
     return Response(data,status = status.HTTP_200_OK)
 
 def get_thumbnail_images(url):
-    # Thay YOUR_API_KEY bằng API key của bạn
-    api_key = "AIzaSyAQ2pzFwHwnxg6ly5guvADqMoBZZOf1xWg"
+
+    api_key = "hvc"
     
     video_id = extract_video_id(url)
     
